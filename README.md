@@ -3,7 +3,10 @@
 
 This guide will walk you through the process of creating a Virtual Private Cloud (VPC) on Amazon Web Services (AWS). Inside this VPC, we will create two subnets, launch two EC2 instances, set up a route table, associate an internet gateway for internet access, and configure a load balancer.
 
-(https://www.bogotobogo.com/DevOps/Terraform/images/Terraform-VPC/vpc-subnet-loadbalancer.png)
+
+![image](https://github.com/krishwuds/CREATING-AWS-REASOURCES-USING-TERRAFORM/assets/143382092/08cc61bc-06ee-47c9-b1bd-5395e9277a97)
+
+
 
 ## Prerequisites
 
